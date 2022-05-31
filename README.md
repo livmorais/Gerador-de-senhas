@@ -1,4 +1,4 @@
-# Gerador-de-senhas
+# Gerador de senhas
 ### O gerador permite criar uma senha aleatória com diversas opções.
 
 [Acesse aqui o projeto](https://livmorais.github.io/Gerador-de-senhas/)
